@@ -20,90 +20,90 @@ html {
 
 
 .bg {
-    background: url('img/img11.png') center / cover no-repeat fixed;
+    background: url('img/img11.png') center / cover no-repeat;
     height: 100vh;
     width: 100%;
 }
 
 .bg:nth-child(2) {
-    background: url('img/img7.png') center / cover no-repeat fixed;
+    background: url('img/img7.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
 }
 
 .bg:nth-child(3) {
-    background: url('img/img10.png') center / cover no-repeat fixed;
+    background: url('img/img10.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
 }
 
 .bg:nth-child(4) {
-    background: url('img/img9.png') center / cover no-repeat fixed;
+    background: url('img/img9.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
 }
 
 .bg:nth-child(5) {
-    background: url('img/img8.png') center / cover no-repeat fixed;
+    background: url('img/img8.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
 }
 
 .bg:nth-child(6) {
-    background: url('img/img6.png') center / cover no-repeat fixed;
+    background: url('img/img6.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
 }
 
 .bg:nth-child(7) {
-    background: url('img/img4.png') center / cover no-repeat fixed;
+    background: url('img/img4.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
 }
 
 .bg:nth-child(8) {
-    background: url('img/img7.png') center / cover no-repeat fixed;
+    background: url('img/img7.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
 }
 
 .bg:nth-child(9) {
-    background: url('img/img5.png') center / cover no-repeat fixed;
+    background: url('img/img5.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
 }
 
 .bg:nth-child(10) {
-    background: url('img/img3.png') center / cover no-repeat fixed;
+    background: url('img/img3.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
 }
 
 .bg:nth-child(11) {
-    background: url('img/img2.png') center / cover no-repeat fixed;
+    background: url('img/img2.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
 }
 
 .bg:nth-child(12) {
-    background: url('img/img1.png') center / cover no-repeat fixed;
+    background: url('img/img1.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
 }
 
 .bg:nth-child(13) {
-    background: url('img/end.png') center / cover no-repeat fixed;
+    background: url('img/end.png') center / cover no-repeat;
     opacity: 0;
     transform: translate(-100%, 0px);
     transition: 1s;
